@@ -1,7 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="#"><img src="images/indonesia.png" height="13">Indonesian</a></td></tr>
+ <tr><td><a href="#"><img src="images/indonesia.png" height="13"> Indonesia</a></td></tr>
  <tr><td><a href="#"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
@@ -13,8 +13,8 @@
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2018 with 3+ years of experience.\
 
 <p align="center">
-  <a href="mailto:zidni.mujib5@gmail.com?subject=Olá%20Zidni%20Mujib"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/halo-zidni"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:zidni.mujib5@gmail.com?subject=Hi%20Zidni%20Mujib"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/halo-zidni/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 ![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD%20PLATAFORM-4285F4.svg?&style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
 </details>
 
@@ -53,7 +53,7 @@
   <br/>
 
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
-![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
+![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) &nbsp;
 
 </details>
