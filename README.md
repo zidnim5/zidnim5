@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently work as Full Stack Developer at [CEXUP](https://cexup.com/) (Jakarta Barat) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2018 with 3+ years of experience.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2018 with 3+ years of experience & keep learning some beautifull thing.
 
 <p align="center">
   <a href="mailto:zidni.mujib5@gmail.com?subject=Hi%20Zidni%20Mujib"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
