@@ -6,10 +6,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp; I'm currently learning Software Architecture and Code Design \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2018 with 3+ years of experience & keep learning some beautifull thing.
+I'm currently learning Software Architecture and Code Design \
+Love for science and innovation.\
+Passionate with problem solving and daily routines automation.\
+Coding since 2018 with 3+ years of experience & keep learning some beautifull thing.
 
 
 <br/>
